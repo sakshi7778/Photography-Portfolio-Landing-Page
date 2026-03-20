@@ -12,6 +12,6 @@
 
 ## Screenshot
 
-![image alt]( )
+![image alt](https://github.com/sakshi7778/Photography-Portfolio-Landing-Page/blob/3f93af03d6219e3f2b458f3e8111624a5500f5a6/Screenshot.png )
 
 
